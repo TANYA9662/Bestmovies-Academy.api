@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "name": "Ticket to Paradise",
+        "category": "Comedi",
+        "release": "2022",
+        "imageUrl":"image1.jpg",
+        "description": "A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago."
+        
+    },
+    {
+        "id": 2,
+        "name": "Shotgun Wedding",
+        "category": "Thriller",
+        "release": "2022",
+        "imageUrl":"image2.jpg",
+        "description":"Darcy and Tom gather their families for the ultimate destination wedding but when the entire wedding party is taken hostage the bride and groom must save their loved ones--if they don't kill each other first."
+    },
+    {
+        "id": 3,
+        "name": "Free Guy",
+        "category": "Action",
+        "release": "2021",
+        "imageUrl":"image3.jpg",
+        "description":"A bank teller discovers that he's actually an NPC inside a brutal, open world video game."
+    },
+    {
+        "id": 4,
+        "name": "Iron Man 3",
+        "category": "Action",
+        "release": "2013",
+        "imageUrl":"image4.jpg",
+        "description":"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+        "id": 5,
+        "name": "Fantastic Four",
+        "category": "Sci-fi",
+        "release": "2015",
+        "imageUrl":"image5.jpg",
+        "description":"Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy."
+    },
+    {
+        "id": 6,
+        "name": "Ghost Rider",
+        "category": "Action",
+        "release": "2007",
+        "imageUrl":"image6.jpg",
+        "description":"When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners."
+    },
+    {
+        "id": 7,
+        "name": "Paradise Highway",
+        "category": "Thriller",
+        "release": "2022",
+        "imageUrl":"image7.jpg",
+        "description":"A truck driver has been forced to smuggle illicit cargo to save her brother from a deadly prison gang. With FBI operatives hot on her trail, Sally's conscience is challenged when the final package turns out to be a teenage girl."
+    },
+    {
+        "id": 8,
+        "name": "Midsommar",
+        "category": "Horor",
+        "release": "2019",
+        "imageUrl":"image8.jpg",
+        "description":"A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult."
+    },
+    {
+        "id": 9,
+        "name": "Spider-Man",
+        "category": "Action",
+        "release": "2021",
+        "imageUrl":"image9.jpg",
+        "description":"With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+    },
+    {
+        "id": 10,
+        "name": "The Goldfinch",
+        "category": "Drama",
+        "release": "2019",
+        "imageUrl":"image10.jpg",
+        "description":"A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals 'The Goldfinch', a painting that eventually draws him into a world of crime."
+    },
+    {
+        "id": 11,
+        "name": "Pippi Långstrump",
+        "category": "Adventure",
+        "release": "1969",
+        "imageUrl":"image11.jpg",
+        "description":"Pippi Långstrump, a super-strong redheaded little girl, moves into her father's house Villa Villekulla, and has adventures with her next-door neighbors Tommy and Annika in this compilation film of the classic European TV series."
+    },
+    {
+        "id": 12,
+        "name": "Bullet Train",
+        "category": "Action",
+        "release": "2023",
+        "imageUrl":"image12.jpg",
+        "description":"e assassins aboard a swiftly-moving bullet train find out that their missions have something in common."
+    },
+    {
+        "id": 13,
+        "name": "Cinderella",
+        "category": "Adventure",
+        "release": "2018",
+        "imageUrl":"image13.jpg",
+        "description":"During the Royal Ball, Cinderella and her mice fellows discover a secret that could shake their world: the real prince has turned into a mouse by the evil witch, and the Prince from the Royal Ball is in fact a fraud."
+    },
+    {
+        "id": 14,
+        "name": "Meet the Joe Black",
+        "category": "Drama",
+        "release": "1998",
+        "imageUrl":"image14.jpg",
+        "description":"Death, who takes the form of a young man killed in an accident, asks a media mogul to act as his guide to teach him about life on Earth and, in the process, he falls in love with the mogul's daughter."
+    },
+    {
+        "id": 15,
+        "name": "Operation Fortune",
+        "category": "Action",
+        "release": "2023",
+        "imageUrl":"image15.jpg",
+        "description": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order."
+    },
+    {
+        "id": 16,
+        "name": "Top Gun",
+        "category": "Action",
+        "release": "2022",
+        "imageUrl":"image16.jpg",
+        "description":"After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it."
+    },
+    {
+        "id": 17,
+        "name": "Massive Talent",
+        "category": "Action",
+        "release": "2022",
+        "imageUrl":"image17.jpg",
+        "description":"In this action-packed comedy, Nicolas Cage plays Nick Cage, channeling his iconic characters as he's caught between a superfan (Pedro Pascal) and a CIA agent (Tiffany Haddish)."
+    }
+]
